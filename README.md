@@ -1,22 +1,29 @@
-# Olá, eu sou o Diego! 👋
+# Diego Dev — Desenvolvedor Python para Agronegócio
 
-## Sobre Mim
+## Quem sou
+Sou Diego (Malaquia). Trabalho com máquinas agrícolas e desenvolvo soluções em Python que reduzem custos operacionais, evitam paradas inesperadas e transformam dados do campo em decisões práticas.
 
-Apaixonado por resolver problemas e construir soluções eficientes. Minha jornada no mundo da programação começou há pouco tempo e, desde então, tenho aprendido e expandido continuamente meu conjunto de habilidades. Gosto de trabalhar em projetos tanto de frontend quanto de backend, e estou sempre animado para explorar novas tecnologias e frameworks.
+## Objetivo
+Atuar como desenvolvedor Python especializado em automação, manutenção preventiva e análise de produtividade para o agronegócio. Meu foco é entregar ferramentas que gerem resultado comercial mensurável (redução de custos, aumento de produtividade, previsibilidade operacional).
 
-## 🛠️ Tecnologias & Ferramentas
+## Projetos prioritários
+1. **manutencao-api** — API para cadastro, histórico e alertas de manutenção de máquinas. — *Status: Em desenvolvimento*
+2. **dashboard-produtividade** — Dashboard com upload CSV, análises e gráficos interativos para medir rendimento. — *Status: Planejado*
+3. **automacao-relatorios** — Geração automática de relatórios diários (PDF/Excel) e envio por e-mail. — *Status: Planejado*
 
-- **Linguagens:** JavaScript, Python
-- **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express, Django, Flask
-- **Bancos de Dados:** MySQL
-- **DevOps:** GitHub Actions
-- **Outros:** Git
+> Observação: repositórios específicos serão linkados assim que estiverem com versão mínima funcional (MVP).
 
-## 🌱 Atualmente Aprendendo
+## Tecnologias e competências
+- Linguagens: Python (principal), SQL.
+- Backend & APIs: FastAPI, SQLite/Postgres, Docker (básico).
+- Dados e visualização: pandas, Plotly, Streamlit.
+- Testes e CI: pytest, GitHub Actions.
+- Deploy: Railway, Render ou VPS simples.
 
-- JavaScript
-- Python
+## Como eu trabalho
+- Entregas iterativas (MVP → refinamento).  
+- Código versionado e documentado.  
+- Prioridade em soluções que comprovem ROI para operações agrícolas.
 
 ## 📈 Estatísticas do GitHub
 
