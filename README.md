@@ -13,6 +13,7 @@ Atuar como desenvolvedor Python especializado em automação, manutenção preve
 
 > Observação: repositórios específicos serão linkados assim que estiverem com versão mínima funcional (MVP).
 
+
 ## Tecnologias e competências
 - Linguagens: Python (principal), SQL.
 - Backend & APIs: FastAPI, SQLite/Postgres, Docker (básico).
