@@ -18,7 +18,7 @@ Atuar como desenvolvedor Python especializado em automação, manutenção preve
 - Código versionado e documentado.  
 - Prioridade em soluções que comprovem ROI para operações agrícolas.
 
-- ## Tecnologias e competências
+- ## Competência
 - Linguagens: Python (principal), SQL.
 - Backend & APIs: FastAPI, SQLite/Postgres, Docker (básico).
 - Dados e visualização: pandas, Plotly, Streamlit.
