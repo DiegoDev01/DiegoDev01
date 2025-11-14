@@ -13,18 +13,17 @@ Atuar como desenvolvedor Python especializado em automação, manutenção preve
 
 > Observação: repositórios específicos serão linkados assim que estiverem com versão mínima funcional (MVP).
 
+## Como eu trabalho
+- Entregas iterativas (MVP → refinamento).  
+- Código versionado e documentado.  
+- Prioridade em soluções que comprovem ROI para operações agrícolas.
 
-## Tecnologias e competências
+- ## Tecnologias e competências
 - Linguagens: Python (principal), SQL.
 - Backend & APIs: FastAPI, SQLite/Postgres, Docker (básico).
 - Dados e visualização: pandas, Plotly, Streamlit.
 - Testes e CI: pytest, GitHub Actions.
 - Deploy: Railway, Render ou VPS simples.
-
-## Como eu trabalho
-- Entregas iterativas (MVP → refinamento).  
-- Código versionado e documentado.  
-- Prioridade em soluções que comprovem ROI para operações agrícolas.
 
 ## 📈 Estatísticas do GitHub
 
